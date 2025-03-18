@@ -23,13 +23,13 @@ public class ServiceManager : MonoBehaviour {
 //		}
 
 //		if (GameObject.Find ("AdsController") != null)
-			// _AdsController = GameObject.Find ("AdsController");
+			_AdsController = GameObject.Find ("AdsController");
 //		if (GameObject.Find ("UnityAds") != null)
-			// _UnityAds = GameObject.Find ("UnityAds");
+			_UnityAds = GameObject.Find ("UnityAds");
 //		
 //		
 ////		_IAP = transform.Find ("IAP").gameObject;
-		// _Facebook = GameObject.Find ("Facebook");
+		_Facebook = GameObject.Find ("Facebook");
 
 	}
 
