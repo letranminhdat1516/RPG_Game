@@ -109,7 +109,8 @@ public class GameManager: MonoBehaviour {
 		}
 	}
 
-	public void ShowFloatingText(string text, Vector2 positon, Color color){
+
+    public void ShowFloatingText(string text, Vector2 positon, Color color){
 		GameObject floatingText = Instantiate (FloatingText) as GameObject;
 		var _position = Camera.main.WorldToScreenPoint (positon);
 
@@ -152,10 +153,15 @@ public class GameManager: MonoBehaviour {
 			PlayerPrefs.SetInt (GlobalValue.worldPlaying.ToString (), levelreached + 1);
 			Debug.Log ("Unlock new level");
 		}
-
-		if (ServiceManager.Instance != null)
-			ServiceManager.Instance.ShowAds ();
-	}
+        if (Point > GlobalValue.SavedHighScore)
+        {
+            GlobalValue.SavedHighScore = Point;
+            Debug.Log(" New High Score: " + Point);
+        }
+        PlayerPrefs.SetInt(GlobalValue.Coins, Coin);
+        PlayerPrefs.SetInt(GlobalValue.Bullets, Bullet);
+        PlayerPrefs.Save();
+    }
 
 	public void GameOver(){
 		State = GameState.Dead;

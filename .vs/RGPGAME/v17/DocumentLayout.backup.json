@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\system\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\system\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\gui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\gui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\environment\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\environment\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\environment\\gamefinishflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\environment\\gamefinishflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\gui\\menu_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\gui\\menu_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\environment\\givebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\environment\\givebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\system\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\system\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\gui\\resetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\gui\\resetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\gui\\mainmenushopitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\gui\\mainmenushopitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\gui\\mainmenuupdatecoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\gui\\mainmenuupdatecoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\gui\\mainmenuhomescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\gui\\mainmenuhomescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|f:\\tempschool\\7\\pru212\\newgame\\rgpgame\\assets\\wukong\\script\\system\\globalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D762F3-48B0-8D8C-0A36-A9A4F1E2FF68}|Assembly-CSharp.csproj|solutionrelative:assets\\wukong\\script\\system\\globalvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,132 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuManager.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\GUI\\MenuManager.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MenuManager.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\GUI\\MenuManager.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwFAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:24:36.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameFinishFlag.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\Environment\\GameFinishFlag.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\Environment\\GameFinishFlag.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\Environment\\GameFinishFlag.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\Environment\\GameFinishFlag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:22:35.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\System\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\System\\GameManager.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\System\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\System\\GameManager.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAiwLoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:13:56.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Menu_GUI.cs",
               "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\Menu_GUI.cs",
               "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\GUI\\Menu_GUI.cs",
               "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\Menu_GUI.cs",
               "RelativeToolTip": "Assets\\Wukong\\Script\\GUI\\Menu_GUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:13:40.623Z",
+              "WhenOpened": "2025-03-21T14:39:08.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GiveBullet.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\Environment\\GiveBullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\Environment\\GiveBullet.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\Environment\\GiveBullet.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\Environment\\GiveBullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\System\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\System\\GameManager.cs",
+              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\System\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Wukong\\Script\\System\\GameManager.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAUwJoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:13:07.8Z",
+              "WhenOpened": "2025-03-21T14:35:18.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Coin.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\Environment\\Coin.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\Environment\\Coin.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\Environment\\Coin.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\Environment\\Coin.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBkAAAAYAAAAAAAAAA==",
+              "Title": "GlobalValue.cs",
+              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\System\\GlobalValue.cs",
+              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\System\\GlobalValue.cs",
+              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\System\\GlobalValue.cs",
+              "RelativeToolTip": "Assets\\Wukong\\Script\\System\\GlobalValue.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:12:58.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResetData.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\ResetData.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\GUI\\ResetData.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\ResetData.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\GUI\\ResetData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:09:58.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainMenuShopItems.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MainMenuShopItems.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\GUI\\MainMenuShopItems.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MainMenuShopItems.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\GUI\\MainMenuShopItems.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:01:31.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainMenuUpdateCoins.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MainMenuUpdateCoins.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\GUI\\MainMenuUpdateCoins.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MainMenuUpdateCoins.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\GUI\\MainMenuUpdateCoins.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:56:54.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainMenuHomeScene.cs",
-              "DocumentMoniker": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MainMenuHomeScene.cs",
-              "RelativeDocumentMoniker": "Assets\\Wukong\\Script\\GUI\\MainMenuHomeScene.cs",
-              "ToolTip": "F:\\TempSchool\\7\\PRU212\\NewGame\\RGPGAME\\Assets\\Wukong\\Script\\GUI\\MainMenuHomeScene.cs",
-              "RelativeToolTip": "Assets\\Wukong\\Script\\GUI\\MainMenuHomeScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:56:06.727Z",
+              "WhenOpened": "2025-03-21T14:34:28.678Z",
               "EditorCaption": ""
             }
           ]

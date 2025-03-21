@@ -9,13 +9,14 @@ public class Menu_GUI : MonoBehaviour {
 	public Text bulletText;
 	public Text coinText;
 	public Text timerText;
-	
-	// Update is called once per frame
-	void Update () {
+    public Text highScoreText;
+    // Update is called once per frame
+    void Update () {
 		scoreText.text = GameManager.Instance.Point.ToString ("0000000");
 		coinText.text = GameManager.Instance.Coin.ToString ("00");
 		timerText.text = LevelManager.Instance.currentTimer.ToString ("000");
 		bulletText.text = GameManager.Instance.Bullet.ToString ();
 		liveText.text = "x" + GameManager.Instance.SavedLives.ToString ();
-	}
+        highScoreText.text = "High Score: " + GlobalValue.SavedHighScore.ToString("0000000");
+    }
 }

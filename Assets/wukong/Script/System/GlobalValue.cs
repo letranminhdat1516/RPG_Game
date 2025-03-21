@@ -14,6 +14,7 @@ public class GlobalValue : MonoBehaviour
     public static string Character = "Character";
     public static string ChoosenCharacterID = "choosenCharacterID";
     public static string ChoosenCharacterInstanceID = "ChoosenCharacterInstanceID";
+    public static string HighScore = "HighScore";
     public static GameObject CharacterPrefab;
 
     public static int SavedCoins
@@ -31,7 +32,11 @@ public class GlobalValue : MonoBehaviour
             PlayerPrefs.Save(); // Bắt buộc lưu ngay
         }
     }
-
+    public static int SavedHighScore
+    {
+        get { return PlayerPrefs.GetInt(HighScore, 0); }
+        set { PlayerPrefs.SetInt(HighScore, value); PlayerPrefs.Save(); }
+    }
     public static int SavedBullets
     {
         get
