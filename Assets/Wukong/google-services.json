@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718942697183",
+    "project_id": "unitygame-20a31",
+    "storage_bucket": "unitygame-20a31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718942697183:android:a4dc81f5bfb9fe6092db6a",
+        "android_client_info": {
+          "package_name": "bellybabe.site"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3dU3Aqv5b-2FHT6B-qda3HeNIptaOrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

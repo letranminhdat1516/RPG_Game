@@ -79,6 +79,7 @@ public class GameManager: MonoBehaviour {
 
 
 	void Start(){
+
 		menuManager = FindObjectOfType<MenuManager> ();
 
 		soundManager = FindObjectOfType<SoundManager> ();
@@ -203,4 +204,6 @@ public class GameManager: MonoBehaviour {
 		if (ServiceManager.Instance != null)
 			ServiceManager.Instance.HideAds ();
 	}
+
+
 }

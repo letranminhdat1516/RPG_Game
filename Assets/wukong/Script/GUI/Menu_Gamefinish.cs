@@ -8,7 +8,7 @@ public class Menu_Gamefinish : MonoBehaviour {
 	public GameObject Buttons;
 	public GameObject Next;
 	public AudioClip soundCouting;
-	[Range(0,1)]
+    [Range(0,1)]
 	public float soundCoutingVolume = 0.5f;
 
 	public float countingSpeed = 0.5f;
@@ -26,19 +26,28 @@ public class Menu_Gamefinish : MonoBehaviour {
 		score = GameManager.Instance.Point;
 		timer = LevelManager.Instance.currentTimer;
 				
+
 		StartCoroutine (Counting (countingSpeed * Time.deltaTime));
 	}
 
 	IEnumerator Counting(float time){
 		yield return new WaitForSeconds (time);
-		if (timer > 0) {
-			timer--;
-			score++;
-			timerText.text = timer.ToString ("000");
-			scoreText.text = score.ToString ("0000000");
-			SoundManager.PlaySfx (soundCouting, soundCoutingVolume);
-			StartCoroutine (Counting (countingSpeed * Time.deltaTime));
-		} else
-			Buttons.SetActive (true);
+        if (timer > 0)
+        {
+            timer--;
+            score++;
+            timerText.text = timer.ToString("000");
+            scoreText.text = score.ToString("0000000");
+            SoundManager.PlaySfx(soundCouting, soundCoutingVolume);
+            StartCoroutine(Counting(countingSpeed * Time.deltaTime));
+        }
+        else
+        {
+            
+            PlayerPrefs.SetInt("HighScore", score);
+            PlayerPrefs.Save();
+            Buttons.SetActive(true);
+        }
+        
 	}
 }
