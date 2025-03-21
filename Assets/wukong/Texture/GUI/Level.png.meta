@@ -194,52 +194,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Level_3
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 0
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9a6bc7e6bbfdeb48963dc7082d05bf9
-      internalID: -836665942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Level_4
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 0
-        width: 26
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d8815eff420c6f4c9279fa75a8e2f72
-      internalID: -1251397784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 731970a9ade05f64bafa38fe05a89042
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -250,8 +208,6 @@ TextureImporter:
       Level_0: 21300000
       Level_1: 21300002
       Level_2: 21300004
-      Level_3: -836665942
-      Level_4: -1251397784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
